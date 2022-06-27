@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/drawable-v24/nen2.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/drawable/background_text_sale.xml" value="0.2866666666666667" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout-v31/activity_main_add_phone.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.14375" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_giohang.xml" value="0.2" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_login.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_main.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_main_add_phone.xml" value="0.264" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_main_app.xml" value="0.176" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_main_app_admin.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_main_ggmap.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_main_search.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_main_su_san_pham.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_sac.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_splash.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/activity_thong_tin_khach_hang.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/dialog_sua_san_pham.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/dialog_thong_tin_khachhang.xml" value="0.4" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/fragment_map.xml" value="0.2609375" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/frg_admin.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/frg_admin_dien_thoai.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/frg_admin_doi_mat_khau.xml" value="0.2" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/frg_admin_tai_nghe.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/frg_dien_thoai.xml" value="0.1515625" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/item_dienthoai.xml" value="0.14375" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/item_giohang.xml" value="0.14375" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/item_product.xml" value="0.14375" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/item_product_doc.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/item_product_ngang.xml" value="0.2653985507246377" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/item_sacdienthoai.xml" value="0.14375" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/item_title.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/lv_search.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/menu/drawer_menu.xml" value="0.275" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/menu/menu_navigation_bottom.xml" value="0.275" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/menu/menu_seach.xml" value="0.14375" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/menu/menu_search.xml" value="0.275" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/menu/option_dienThoaiAdmin.xml" value="0.275" />
+        <entry key="..\:/Users/thucv/Downloads/Du_An_1 (1)/Du_An_1/app/src/main/res/menu/option_dien_thoai_admin.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

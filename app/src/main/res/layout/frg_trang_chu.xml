@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="none"
+    android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <fragment
+            android:name="thuc.dvph17759.du_an_1.FRG.frg_dienThoaiHome"
+            android:id="@+id/frg_dienThoaiHome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="thuc.dvph17759.du_an_1.FRG.frg_taiNgheHome"
+            android:id="@+id/frg_taiNgheHome"/>
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="thuc.dvph17759.du_an_1.FRG.frg_sacDienThoaiHome"
+            android:id="@+id/frg_sacDienThoaiHome"/>
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="thuc.dvph17759.du_an_1.FRG.frg_opDienThoaiHome"
+            android:id="@+id/frg_opDienThoai"/>
+
+    </LinearLayout>
+
+
+
+</ScrollView>

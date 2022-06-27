@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/trang_chu"
+        android:title="Trang Chủ"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/dien_thoai"
+        android:title="Điện Thoại"
+        android:icon="@drawable/ic_phone"
+        />
+
+    <item
+        android:id="@+id/tai_nghe"
+        android:title="Tai Nghe"
+        android:icon="@drawable/ic_headphones"
+        />
+
+    <item
+        android:id="@+id/sac_dien_thoai"
+        android:title="Sạc Điện Thoại"
+        android:icon="@drawable/ic_phonecharge"
+        />
+
+    <item
+        android:id="@+id/case_dien_thoai"
+        android:title="Ốp Điện Thoại"
+        android:icon="@drawable/ic_casephone"
+        />
+<!--    <item-->
+<!--        android:id="@+id/admin"-->
+<!--        android:title="admin"-->
+<!--        android:icon="@drawable/user"/>-->
+</menu>
